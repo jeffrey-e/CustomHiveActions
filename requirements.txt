@@ -1,0 +1,5 @@
+pyee
+python-magic
+requests
+future
+thehive4py
