@@ -2,3 +2,7 @@
 /certs/*
 /logs/*
 /tmp/*
+config.py
+thehive4py
+.pytest_cache/*
+__pycache__/config.cpython-37.pyc

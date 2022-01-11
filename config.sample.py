@@ -1,11 +1,14 @@
 TheHive = {
-    'proxies':{
-      'http': '',
-      'https': ''
+    'proxies': {
+        'http': '',
+        'https': ''
     },
-    'url':'<url>',
-    'key':'<key>',
+    'url': '<url>',
+    'key': '<key>',
     'template': '<template>',
-    #'verify': '/opt/CustomHiveActions/certs/ca.crt'
+    # 'verify': '/opt/CustomHiveActions/certs/ca.crt'
     'verify': True
+}
+Filters = {
+    'tags': ['<tag>']
 }
